@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on a project named "Smart Resume Analyzer".<br>🌱 I’m currently learning Cloud Computing.<br>💬 Ask me about AWS and GCP.
+🔭 I’m currently working on a project named Smart Resume Analyzer<br>🌱 I’m currently learning Cloud Computing<br>💬 Ask me about AWS, GCP, and Azure
 
 
 ## 🌐 Socials:
