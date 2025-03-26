@@ -1,4 +1,4 @@
-## Hi there, I am Pranav Mahajan 👋
+## Hi there, this is Pranav 👋
 
 # 💫 About Me:
 🔭 I’m currently working on a project named Smart Resume Analyzer<br>🌱 I’m currently learning Cloud Computing<br>💬 Ask me about AWS, GCP, and Azure
