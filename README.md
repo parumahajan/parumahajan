@@ -1,5 +1,5 @@
-## Hi there, this is Pranav! 👋
-## Nice to meet you! 🙂
+## Hi there, Pranav this side! 👋
+## Nice to meet you! 😄
 
 # 💫 About Me:
 🔭 I’m currently working on a project named **Smart Resume Analyzer**  
