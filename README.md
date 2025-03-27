@@ -5,7 +5,7 @@
 🌱 I’m currently learning **Cloud Computing**  
 💬 Ask me about AWS, GCP, and Azure
 
-[![](https://visitcount.itsvg.in/api?id=parumahajan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Visits](https://visitcount.itsvg.in/api?id=parumahajan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav-mahajan-4a5623216) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parumahajan3000@gmail.com) 
@@ -20,7 +20,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-
 
 ## DevOps:
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
