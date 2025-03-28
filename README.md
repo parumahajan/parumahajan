@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 💻 I’m currently working on a project named **Smart Resume Analyzer**  
-✍🏻 I’m currently learning **Cloud Computing**  
-🗣️ Ask me about AWS, GCP, and Azure
+✍🏻 I’m currently learning **DevOps**  
+🗣️ Ask me about Cloud Computing
 
 ![](https://komarev.com/ghpvc/?username=parumahajan)
 
