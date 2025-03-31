@@ -1,4 +1,4 @@
-## Hi there, Pranav this side! 👋
+## Hi there, Pranav this side! 👋 
  
 # 💫 About Me:  
 💻 I’m currently working on a project named **Smart Resume Analyzer**  
