@@ -4,7 +4,7 @@
 💻 I’m currently working on a project named **Smart Resume Analyzer**  
 ✍ I’m currently learning **DevOps**  
 ☁️ Ask me about **Cloud Computing** 
- 
+  
 ![](https://komarev.com/ghpvc/?username=parumahajan) 
 
 ## 🌐 Socials:
