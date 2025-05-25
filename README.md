@@ -1,7 +1,7 @@
 ## Hi there, Pranav this side! 👋 
    
 # 💫 About Me:
-💻 I’m currently working on a project named **Smart Resume Analyzer**
+💻 I’m currently working on **Hire AI - Smart Interview Automation System**
  
 ✍ I’m currently learning **DevOps**
 
