@@ -41,6 +41,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-%23white.svg?style=flat&logo=opencv&logoColor=white)
 
 ## Database:
 ![MySQL](https://img.shields.io/badge/MSQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
