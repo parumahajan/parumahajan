@@ -5,7 +5,7 @@
  
 ✍ I’m currently learning **DevOps**
 
-☁️ Ask me about **Cloud Computing**  
+☁️ Ask me about **Full-Stack Development, Cloud Computing, and DevOps**  
   
 ![](https://komarev.com/ghpvc/?username=parumahajan) 
 
