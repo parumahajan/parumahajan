@@ -1,9 +1,9 @@
 ## Hi there, Pranav this side! 👋 
    
 # 💫 About Me:
-💻 I’m currently working on **Hire AI**
+💻 I’m currently working on making **.NET based projects**
  
-✍ I’m currently learning **DevOps**
+✍ I’m currently learning **.NET**
 
 ☁️ Ask me about **Full-Stack Development and Cloud Computing**  
   
