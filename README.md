@@ -28,14 +28,9 @@
 ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 
-## Version Control and DevOps:
+## Version Control:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
-## Data Handling and ML:
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-%23white.svg?style=flat&logo=opencv&logoColor=white)
 
 ## Database:
 ![MySQL](https://img.shields.io/badge/MSQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
