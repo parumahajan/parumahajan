@@ -3,7 +3,7 @@
 # 💫 About Me:
 💻 I’m currently working on making **.NET based projects**
  
-✍ I’m currently learning **.NET**
+✍ I’m currently learning **C# and .NET**
 
 ☁️ Ask me about **Full-Stack Development and Cloud Computing**  
   
