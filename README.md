@@ -2,9 +2,6 @@
    
 # 💫 About Me:
 ✍ I’m currently learning **C# and .NET**
-
-💻 I’m currently working on making **.NET based projects**
-
 ☁️ Ask me about **Full-Stack Development and Cloud**  
   
 ![](https://komarev.com/ghpvc/?username=parumahajan) 
