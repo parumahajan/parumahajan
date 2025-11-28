@@ -5,7 +5,7 @@
  
 ✍ I’m currently learning **C# and .NET**
 
-☁️ Ask me about **Full-Stack Development and Cloud Computing**  
+☁️ Ask me about **Full-Stack Development and Cloud**  
   
 ![](https://komarev.com/ghpvc/?username=parumahajan) 
 
