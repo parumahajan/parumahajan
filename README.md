@@ -16,7 +16,7 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%2300599C.svg?style=flat&logo=csharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=flat&logo=openjdk&logoColor=white)
 
 ## Development:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
