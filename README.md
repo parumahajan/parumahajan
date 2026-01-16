@@ -27,18 +27,14 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 
- 
-
 ## Cloud Platforms:
 ![AWS](https://img.shields.io/badge/AWS-%2300599C.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-%23ED8B00.svg?style=flat&logo=google-cloud&logoColor=white)
 
-
 ## Database:
 ![MySQL](https://img.shields.io/badge/MSQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-4053D6?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
 
 ## Version Control:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
