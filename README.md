@@ -1,7 +1,7 @@
 ## Hi there, Pranav this side! 👋 
    
 # 💫 About Me:
-✍ I’m currently learning **C# and .NET**
+✍ I’m currently working on **C# and ASP.NET Core**
 
 ☁️ Ask me about **Full-Stack Development and Cloud**  
   
